@@ -5,8 +5,8 @@ A [GIMP](https://gimp.org) script-fu script for use in the command line that all
 ```
 
 ## Installation
-1. Download the scm files: [https://github.com/gdog2u/resize-image-by-percent/archive.zip](https://github.com/gdog2u/resize-image-by-percent/archive.zip)
-2. Unzip and copy .scm files to your GIMP scripts folder
+1. Download the scm files: [https://github.com/gdog2u/resize-image-by-percent/archive/refs/head/master.zip](https://github.com/gdog2u/resize-image-by-percent/archive.zip)
+2. Unzip and copy both .scm files to your GIMP scripts folder
     - e.g. `~/.config/GIMP/2.10/scripts/` or `%APPDATA%/GIMP/2.10/scripts/`
 
 ## Parameters
