@@ -1,5 +1,5 @@
 # resize-image-by-percent
-A [GIMP](https://gimp.org) script-fu script for use in the command line that allows for quickly resizing images by a certain percent.
+A [GIMP](https://gimp.org) script-fu script for use in the command line that allows for quickly resizing images by a certain percent. Written for GIMP v2.10. 
 ```scheme
 (resize-image-by-percent "my-image.jpg" 25)
 ```
