@@ -41,4 +41,4 @@ done
 I welcome any pull requests, and will consider them with respect.
 
 ## Credits
-@philcolbourn - Providing the basis for [split-filename-extension.scm](./split-filename-extension.scm)
+[@philcolbourn](https://github.com/philcolbourn) - Providing the basis for [split-filename-extension.scm](./split-filename-extension.scm)
